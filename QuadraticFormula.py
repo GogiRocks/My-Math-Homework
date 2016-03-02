@@ -6,7 +6,7 @@ c = 0
 
 def descriminant():
 
-    return ((b * b) - (4 * a * b))
+    return ((b * b) - (4 * a * c))
 
 a = int(input("A = "))
 b = int(input("B = "))
